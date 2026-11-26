@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**kirkemmanuel10-web/kirkemmanuel10-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kirk Emmanuel 👋
 
-Here are some ideas to get you started:
+### 💻 Aspiring Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a student passionate about technology, computers and discovering how things work.
+
+### 🚀 About Me
+- 🎓 Student exploring the world of technology.
+- 🌱 Currently learning programming and web development.
+- 💡 Interested in software development and innovation.
+- 🤝 Open to learning and collaborating on projects.
+
+### 🛠️ Skills I'm Learning
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+### 🎯 My Goals
+- Build amazing projects.
+- Improve my programming skills.
+- Become a skilled software developer.
+
+### 📫 Connect With Me
+- GitHub: [kirkemmanuel10-web](https://github.com/kirkemmanuel10-web)
+
+---
